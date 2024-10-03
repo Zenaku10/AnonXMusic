@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "24795599",
+        "value": "",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "b5bf7b421f0d4d84babda392dcf38e0c",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN": {
@@ -30,7 +30,7 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://ohmyqueenmedusa:ohmyqueenmedusa@ohmyqueenmedusa.vnxmi0m.mongodb.net/?retryWrites=true&w=majority",
+        "value": "",
         "required": true
       },
       "OWNER_ID": {
@@ -60,12 +60,12 @@
       },
       "SUPPORT_CHAT": {
         "description": "Copy a telegram your group.",
-        "value": "https://t.me/seriosvs_version10",
+        "value": "https://t.me/seriousvs_version10",
         "required": true
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1002020845157",
+        "value": "",
         "required": true
       }
     },
